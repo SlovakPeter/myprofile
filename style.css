@@ -376,22 +376,6 @@ article .icon {
   min-width: 250px;
 }
 
-.project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
-}
-
-.project-title {
-  margin: 1rem;
-  color: black;
-}
-
-.project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
-}
-
 .player {
   aspect-ratio: 16/9;
   width: 100%;
