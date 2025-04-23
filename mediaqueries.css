@@ -66,6 +66,7 @@
   }
   .about-containers,
   .contact-info-upper-container,
+  .color-container,
   .btn-container {
     flex-wrap: wrap;
   }
